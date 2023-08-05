@@ -14,7 +14,9 @@
         <th>Описание проекта</th>
     </tr>
     <tr>
-        <td>[Исследование рынка общественного питания Москвы](https://github.com/TatyanaArtemkina/Portfolio/tree/main/Project%20%E2%84%96%201)</td>
-        <td>Исследование рынка на основе открытых данных о заведениях общественного питания Москвы</td>
+        <td>
+        <a href="[https://github.com/D-e-n-mark/Practicum/tree/main/3.%20real%20estate](https://github.com/TatyanaArtemkina/Portfolio/tree/main/Project%20%E2%84%96%201)">Исследование рынка общественного питания Москвы</a>
+        </td>
+        <td>Исследование рынка на основе открытых данных о заведениях общественного питания Москвы<td>
     </tr>
 </table>
