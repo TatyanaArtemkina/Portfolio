@@ -30,4 +30,10 @@
         </td>
         <td>анализ пользователей и событий в приложении. Проведение A/A/B-эксперимента для выявления эффективности внедрения нового шрифта в приложение</td>
     </tr>
+         <td>
+<a href="https://public.tableau.com/views/Book1_16823695407440/Dashboard2?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link" rel="nofollow">Дашборд для Яндекс.Дзен</a>
+и
+<a href="https://disk.yandex.ru/i/UsClkymwFQyoDg" rel="nofollow">Презентация</a>
+        <td>Дашборд для анализа пользовательского взаимодействия в сервисе Яндекс.Дзен (Tableau Public)</td>
+    <td>
 </table>
